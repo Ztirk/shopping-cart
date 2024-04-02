@@ -1,0 +1,1 @@
+# type "npm run dev" in the terminal to run the program
